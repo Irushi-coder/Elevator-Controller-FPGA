@@ -1,7 +1,7 @@
 # Elevator Controller - FPGA Implementation
 
 ## Project Overview
-A 3-floor elevator controller designed and implemented using Verilog HDL on the Nexys4 FPGA board for ECE2610 Digital Logic Design.
+A 3-floor elevator controller designed and implemented using Verilog HDL on the Nexys4 FPGA board
 
 ## Features
 - **3-Floor Operation:** Ground (0), First (1), and Second (2) floors
